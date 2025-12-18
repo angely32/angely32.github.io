@@ -1,4 +1,4 @@
-# angely32.gtihub.io
+# angely32.github.io
 
 theme: jekyll-theme-minimal
 title: angely32's homepage
